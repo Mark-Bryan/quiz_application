@@ -1,0 +1,54 @@
+{
+    "questions": [
+        {
+            "question": "What is the capital of Germany?",
+            "option": [
+                "London",
+                "Paris",
+                "Berlin",
+                "Madrid"
+            ],
+            "answer": "Berlin"
+        },
+        {
+            "question": "What is the largest planet in our solar system?",
+            "option": [
+                "Saturn",
+                "Earth",
+                "Jupiter",
+                "Saturn"
+            ],
+            "answer": "Jupiter"
+        },
+        {
+            "question": "Who is the richest man in Africa",
+            "option": [
+                "Paul Biya",
+                "Aliko Dangote",
+                "Bola Tinubu",
+                "Adama Barrow"
+            ],
+            "answer": "Aliko Dangote"
+        },
+        {
+            "question": "Who is the king of afrobeats",
+            "option": [
+                "Fela Kuti",
+                "Burna Boy",
+                "Don Jazzy",
+                "Davido"
+            ],
+            "answer": "Fela Kuti"
+        },
+        {
+            "question": "Who is the best software developer",
+            "option": [
+                "Kinsa Ryan",
+                "Tepet Blessing",
+                "Suhmayah Banda",
+                "Fotsing Fonou"
+            ],
+            "answer": "Suhmayah Banda"
+        }
+    ]
+}
