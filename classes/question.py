@@ -1,13 +1,13 @@
 class Question:
 
-    def __init__(self, id, description, responses, answer):
-        self.id = id
+    def __init__(self, Id, description, responses, answer):
+        self.Id = Id
         self.description = description
         self.responses = responses
         self.answer = answer
 
-    def save():
-        pass
+    def save(self):
+        return True
 
-    def checkAnswer():
-        pass
+    def checkAnswer(self):
+        return True
