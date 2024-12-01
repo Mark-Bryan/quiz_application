@@ -17,6 +17,7 @@ log_in_btn.pack(side=RIGHT, padx=20, pady=10)
 register_btn = Button(actionsFrame, text="Register", command=user.registerUser)
 register_btn.pack(side=LEFT, padx=20, pady=10)
 
+
 actionsFrame.pack()
 
 mainWindow.mainloop()

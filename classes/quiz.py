@@ -1,6 +1,3 @@
-import tkinter as tk
-
-
 class Quiz:
 
     def __init__(self, Id, name, description, finalScore, questions, responses):
